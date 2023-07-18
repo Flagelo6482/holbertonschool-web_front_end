@@ -16,6 +16,10 @@ h1, h2, h3, h4, h5, h6 {
     font-weight: var(--font-weight-bold);
 }
 
+a:any-link {
+    color: var(--text-color);
+    text-decoration: none;
+}
 a[href]:not([href=""]) {
     color: var(--text-color);
     text-decoration: none;
