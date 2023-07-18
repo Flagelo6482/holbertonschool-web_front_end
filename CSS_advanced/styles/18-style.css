@@ -114,6 +114,11 @@ a:active {
     display: block;
     padding: var(--font-size-medium) var(--font-size-large);
 }
+
+.nav:hover .nav-link {
+    color: var(--nav-item-link-hover);
+}
+
 :root {
     --color-primary: #d73953;
     --color-black: #090909;
