@@ -173,8 +173,8 @@ ul.row {
     fill: var(--text-color);
 }
 
-.card-services card-title {
-    margin: none;
+.card-services > card-title {
+    margin: 0;
 }
 
 .card-services a {
