@@ -253,7 +253,7 @@ ul.row {
     background: var(--button-hover-background);
 }
 
-card-testimonial {
+.card-testimonial {
     text-align: center;
 }
 
