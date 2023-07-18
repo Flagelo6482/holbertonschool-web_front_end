@@ -169,7 +169,7 @@ ul.row {
     display: block;
 }
 
-.social-link:is(svg){
+.social-link > svg {
     fill: var(--text-color);
 }
 
