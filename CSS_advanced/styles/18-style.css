@@ -110,7 +110,7 @@ a:active {
     margin: var(--nav-item-margin);
 }
 
-.nav-link:hover {
+.nav:hover .nav-link {
     display: block;
     padding: var(--font-size-medium) var(--font-size-large);
 }
