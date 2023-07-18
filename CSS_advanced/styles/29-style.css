@@ -302,7 +302,7 @@ ul.row {
     left: var(--header-logo-link-left);
 }
 
-nav .nav-item:hover .nav-link::before {
+.nav .nav-link::before {
     content: "";
     position: absolute;
     top: 0;
