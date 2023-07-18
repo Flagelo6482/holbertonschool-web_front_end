@@ -110,6 +110,10 @@ a:active {
     margin: var(--nav-item-margin);
 }
 
+.nav .nav-link {
+    display: block;
+    padding: var(--font-size-medium) var(--font-size-large);
+}
 :root {
     --color-primary: #d73953;
     --color-black: #090909;
