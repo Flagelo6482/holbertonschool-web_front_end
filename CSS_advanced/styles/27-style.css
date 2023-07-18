@@ -270,11 +270,11 @@ ul.row {
 }
 
 .section-hero {
-    background-size: 90% auto;
+    background-size: 90rem auto;
 }
 
 .section-hero .section-title{
-    margin: 5rem;
+    margin-bottom: 5rem;
 }
 
 .section-hero .section-inner {
