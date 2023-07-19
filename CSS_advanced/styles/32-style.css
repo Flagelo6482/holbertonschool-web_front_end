@@ -401,7 +401,7 @@ ul.row {
     transition-property: color, background-color;
 }
 
-card-work:hover .card-image {
+card-work:hover .card-image img{
     transition: var(--transition-duration) var(--transition-cubic-bezier);
 }
 
