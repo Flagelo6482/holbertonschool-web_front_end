@@ -401,8 +401,7 @@ ul.row {
     transition-property: color, background-color;
 }
 
-card-work:hover .card-image {
-    transform: scale(1.2);
+.card-work:hover .card-image {
     transition: var(--transition-duration) var(--transition-cubic-bezier);
 }
 
